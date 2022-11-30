@@ -1,0 +1,18 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+
+this file contains data about city populations
+
+
+
+City State Population
+Boston MA   610000
+Chicago IL 2410000
+Seattle WA  415000
+*note - this example contains 3 cities

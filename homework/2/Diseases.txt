@@ -1,0 +1,95 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+Rank|Disease|Deaths
+1|Coronary Heart Disease|8727670
+2|Stroke|6221072
+3|Influenza and Pneumonia|3177204
+4|Lung Disease|3162054
+5|Lung Cancers|1683893
+6|Diabetes Mellitus|1570100
+7|Alzheimers/Dementia|1533855
+8|Diarrhoeal diseases|1388418
+9|Tuberculosis|1372855
+10|Road Traffic Accidents|1339206
+11|Liver Disease|1154240
+12|Kidney Disease|1121214
+13|HIV/AIDS|1059626
+14|Low Birth Weight|1056984
+15|Hypertension|938129
+16|Suicide|783407
+17|Liver Cancer|777816
+18|Colon-Rectum Cancers|767280
+19|Stomach Cancer|749806
+20|Birth Trauma|690870
+21|Other Injuries|673501
+22|Congenital Anomalies|646027
+23|Falls|644028
+24|Breast Cancer|568309
+25|Violence|466060
+26|Malaria|439026
+27|Oesophagus Cancer|413123
+28|Inflammatory/Heart|411622
+29|Endocrine Disorders|411242
+30|Asthma|382288
+31|Drownings|358957
+32|Pancreas Cancer|355709
+33|Prostate Cancer|342090
+34|Lymphomas|341463
+35|Malnutrition|330105
+36|Oral Cancer|315707
+37|Meningitis|314965
+38|Rheumatic Heart Disease|304792
+39|Maternal Conditions|303269
+40|Leukemia|288470
+41|Cervical Cancer|278318
+42|Peptic Ulcer Disease|234134
+43|Other Neoplasms|207953
+44|Bladder Cancer|184183
+45|Fires|179766
+46|Drug Use|167165
+47|Ovary Cancer|161421
+48|War|156238
+49|Epilepsy|152310
+50|Measles|139822
+51|Alcohol|128513
+52|Parkinson's Disease|127231
+53|Skin Cancers|111444
+54|Poisonings|107549
+55|Syphilis|92243
+56|Skin Disease|91172
+57|Encephalitis|89272
+58|Hepatitis B|86877
+59|Uterin Cancer|82669
+60|Anemia|77896
+61|Pertussis|66392
+62|Tetanus|63993
+63|Rheumatoid Arthritis|48094
+64|Appendicitis|45043
+65|Dengue|34497
+66|Schistosomiasis|24058
+67|Multiple Sclerosis|22933
+68|Leishmaniasis|21123
+69|Schizophrenia|18562
+70|Leprosy|15933
+71|Chagas disease|7553
+72|Trypanosomiasis|5411
+73|Upper Respiratory|4517
+74|Otitis Media|3969
+75|Hepatitis C|3185
+76|Ascariasis|2938
+77|Diphtheria|2778
+78|Iodine Deficiency|2088
+79|Oral conditions|471
+80|Chlamydia|173
+81|Trichuriasis|0
+82|Hookworm Disease|0
+83|Vitamin A Deficiency|0
+84|Depression|0
+85|Prostatic Hypertrophy|0
+86|Osteoarthritis|0
